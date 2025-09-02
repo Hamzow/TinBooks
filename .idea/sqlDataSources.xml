@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="7cd10f39-4d49-4c33-8713-af28192d1053" />
+          <option name="name" value="DDL data source" />
+          <option name="dbmsName" value="UNKNOWN" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/TinBooks/Models/BookstoreDbContext.cs" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

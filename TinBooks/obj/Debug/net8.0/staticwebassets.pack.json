@@ -1,0 +1,665 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/obj/Debug/net8.0/scopedcss/projectbundle/TinBooks.bundle.scp.css",
+      "PackagePath": "staticwebassets/TinBooks.ndsa7t22hp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/Sounds/Mästren-1.mp3",
+      "PackagePath": "staticwebassets/Sounds/Mästren-1.mp3"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/Sounds/Sagan.mp3",
+      "PackagePath": "staticwebassets/Sounds/Sagan.mp3"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/Account.css",
+      "PackagePath": "staticwebassets/css/Account.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/Admin.css",
+      "PackagePath": "staticwebassets/css/Admin.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/Bestalla.css",
+      "PackagePath": "staticwebassets/css/Bestalla.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/Bibliotek.css",
+      "PackagePath": "staticwebassets/css/Bibliotek.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/ForfattarenSida.css",
+      "PackagePath": "staticwebassets/css/ForfattarenSida.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/Home.css",
+      "PackagePath": "staticwebassets/css/Home.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/css/ljudbok.css",
+      "PackagePath": "staticwebassets/css/ljudbok.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/Screenshot 2024-10-15 at 20.39.42.png",
+      "PackagePath": "staticwebassets/images/Screenshot 2024-10-15 at 20.39.42.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/Screenshot 2024-10-15 at 20.45.13.png",
+      "PackagePath": "staticwebassets/images/Screenshot 2024-10-15 at 20.45.13.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/Screenshot 2024-10-15 at 20.53.50.png",
+      "PackagePath": "staticwebassets/images/Screenshot 2024-10-15 at 20.53.50.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/TechCrunch.png",
+      "PackagePath": "staticwebassets/images/TechCrunch.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg.htm",
+      "PackagePath": "staticwebassets/images/backg.htm"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/55697.js",
+      "PackagePath": "staticwebassets/images/backg_files/55697.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/81b0f44c9a10776a781e4cf1119dfcd1.js",
+      "PackagePath": "staticwebassets/images/backg_files/81b0f44c9a10776a781e4cf1119dfcd1.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/AGSKWxUG5qvyTtKkGOeTDwZkQakx681zcDRIlxcc9qn7W0LX7uWkNx14dFGyI-205FKiRIBkdKr9futHYMLj6WHemkvPz7L4rOHgxvEORu_kAuq0lXZT1AfibV17E_0o_2_KRsg6W-Vv1Q==",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/AGSKWxVra65BA7TX-e-gW1miI5u7S1JHR5ZVVJX0YPCLlEETA5o6Eotq0wB0pWgwMpXIWKxXyc9N88ErPy7HXnvUr8937zTVVPwWa0Ti-q60XP5dCFXiZubo17whuDnn57SDCu8eHOp7gA==",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/AGSKWxVvJlBoWVeH0hGcp0sUR5XjYlxCBf40KZ24zLWU3XxOJdQnucsoiHJej-OIdoZLXFQ9cwVDXALo0o85PLgIrh1-JMm3NkRZoyF95R_mVbqtMmA02l4uREjp00Q-OeT3zc__YG5pcQ==",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/a69den.9c5d54e5.css",
+      "PackagePath": "staticwebassets/images/backg_files/a69den.9c5d54e5.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/ads(1).html",
+      "PackagePath": "staticwebassets/images/backg_files/ads(1).html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/ads.html",
+      "PackagePath": "staticwebassets/images/backg_files/ads.html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/aframe.html",
+      "PackagePath": "staticwebassets/images/backg_files/aframe.html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/ca-pub-1336670899173323",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/client",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/css",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/css(1)",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/css(2)",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(1).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(1).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(2).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(2).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(3).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(3).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(4).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(4).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(5).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(5).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(6).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(6).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(7).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(7).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f(8).txt",
+      "PackagePath": "staticwebassets/images/backg_files/f(8).txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/f.txt",
+      "PackagePath": "staticwebassets/images/backg_files/f.txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/hoisted.78654cbb.js",
+      "PackagePath": "staticwebassets/images/backg_files/hoisted.78654cbb.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/js",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/l",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-cup-of-coffee-and-book-on-white-bedspread-with-perfect-image_16190704.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-cup-of-coffee-and-book-on-white-bedspread-with-perfect-image_16190704.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-cup-of-tea-and-an-open-book-with-daisies-on-image_16229364.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-cup-of-tea-and-an-open-book-with-daisies-on-image_16229364.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-cup-of-tea-and-book-on-purple-cloth-with-the-image_16174376.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-cup-of-tea-and-book-on-purple-cloth-with-the-image_16174376.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-peaceful-garden-morning-with-cup-of-coffee-and-an-open-image_16235222.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-peaceful-garden-morning-with-cup-of-coffee-and-an-open-image_16235222.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-peaceful-garden-morning-with-cup-of-coffee-and-an-open-image_16237377.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-peaceful-garden-morning-with-cup-of-coffee-and-an-open-image_16237377.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-a-steaming-cup-of-coffee-placed-next-to-an-open-book-image_16200675.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-a-steaming-cup-of-coffee-placed-next-to-an-open-book-image_16200675.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-an-open-book-with-red-roses-and-a-cup-of-tea-image_16198901.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-an-open-book-with-red-roses-and-a-cup-of-tea-image_16198901.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-an-opened-book-with-coffee-beans-on-a-gray-background-image_16192825.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-an-opened-book-with-coffee-beans-on-a-gray-background-image_16192825.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-coffee-cup-and-book-on-the-table-a-of-with-flowers-image_16192909.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-coffee-cup-and-book-on-the-table-a-of-with-flowers-image_16192909.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-cup-of-coffee-and-book-on-a-wooden-table-by-the-image_16201565.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-cup-of-coffee-and-book-on-a-wooden-table-by-the-image_16201565.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-cup-of-coffee-book-and-cake-on-wooden-table-in-garden-image_16199234.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-cup-of-coffee-book-and-cake-on-wooden-table-in-garden-image_16199234.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-cup-of-coffee-with-open-book-on-small-wooden-table-cozy-image_16235152.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-cup-of-coffee-with-open-book-on-small-wooden-table-cozy-image_16235152.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-cup-of-coffee-with-open-book-on-small-wooden-table-cozy-image_16237376.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-cup-of-coffee-with-open-book-on-small-wooden-table-cozy-image_16237376.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-there-is-a-table-with-book-and-cup-of-coffee-on-image_16170990.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-there-is-a-table-with-book-and-cup-of-coffee-on-image_16170990.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-vintage-book-with-roses-and-coffee-cup-image_16199811.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-vintage-book-with-roses-and-coffee-cup-image_16199811.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/pngtree-woman-reading-book-at-cafe-table-with-coffee-cup-image_16164092.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/pngtree-woman-reading-book-at-cafe-table-with-coffee-cup-image_16164092.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/polyfills-legacy.981e4293.js",
+      "PackagePath": "staticwebassets/images/backg_files/polyfills-legacy.981e4293.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/rcbzpg.05c4dd53.jpg",
+      "PackagePath": "staticwebassets/images/backg_files/rcbzpg.05c4dd53.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/reach_worklet.html",
+      "PackagePath": "staticwebassets/images/backg_files/reach_worklet.html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/saved_resource(1).html",
+      "PackagePath": "staticwebassets/images/backg_files/saved_resource(1).html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/saved_resource(2).html",
+      "PackagePath": "staticwebassets/images/backg_files/saved_resource(2).html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/saved_resource(3).html",
+      "PackagePath": "staticwebassets/images/backg_files/saved_resource(3).html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/saved_resource.html",
+      "PackagePath": "staticwebassets/images/backg_files/saved_resource.html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/sodar",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/style",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+      "PackagePath": "staticwebassets/images/backg_files"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/wfw5xd.12e8c975.css",
+      "PackagePath": "staticwebassets/images/backg_files/wfw5xd.12e8c975.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/wfw5xd.33fbc704.css",
+      "PackagePath": "staticwebassets/images/backg_files/wfw5xd.33fbc704.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/yu1w15.9fa3208a.css",
+      "PackagePath": "staticwebassets/images/backg_files/yu1w15.9fa3208a.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/backg_files/zrt_lookup_fy2021.html",
+      "PackagePath": "staticwebassets/images/backg_files/zrt_lookup_fy2021.html"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/barnn.png",
+      "PackagePath": "staticwebassets/images/barnn.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/biwebb.png",
+      "PackagePath": "staticwebassets/images/biwebb.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/bizinsider.png",
+      "PackagePath": "staticwebassets/images/bizinsider.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/bocker.webp",
+      "PackagePath": "staticwebassets/images/bocker.webp"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/boki.png",
+      "PackagePath": "staticwebassets/images/boki.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/cover.jpg",
+      "PackagePath": "staticwebassets/images/cover.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/cropped_image.png",
+      "PackagePath": "staticwebassets/images/cropped_image.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/ditord.jpg",
+      "PackagePath": "staticwebassets/images/ditord.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/focus.jpeg",
+      "PackagePath": "staticwebassets/images/focus.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/froken .webp",
+      "PackagePath": "staticwebassets/images/froken .webp"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/granda.webp",
+      "PackagePath": "staticwebassets/images/granda.webp"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/https___www.selmastories.se_wp-content_uploads_2023_10_Maud-Marta.webp",
+      "PackagePath": "staticwebassets/images/https___www.selmastories.se_wp-content_uploads_2023_10_Maud-Marta.webp"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/im.png",
+      "PackagePath": "staticwebassets/images/im.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/inlogning.png",
+      "PackagePath": "staticwebassets/images/inlogning.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/jw.jpeg",
+      "PackagePath": "staticwebassets/images/jw.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/jw.png",
+      "PackagePath": "staticwebassets/images/jw.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/läsa.jpeg",
+      "PackagePath": "staticwebassets/images/läsa.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/livet efter.jpeg",
+      "PackagePath": "staticwebassets/images/livet efter.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/maktaba.jpeg",
+      "PackagePath": "staticwebassets/images/maktaba.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/mashable.png",
+      "PackagePath": "staticwebassets/images/mashable.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/mt-1321_home_slider-1.jpg",
+      "PackagePath": "staticwebassets/images/mt-1321_home_slider-1.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/nästpic.png",
+      "PackagePath": "staticwebassets/images/nästpic.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/nypic.png",
+      "PackagePath": "staticwebassets/images/nypic.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/or.png",
+      "PackagePath": "staticwebassets/images/or.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/programmer.jpg",
+      "PackagePath": "staticwebassets/images/programmer.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/read.png",
+      "PackagePath": "staticwebassets/images/read.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/tankpos.jpg",
+      "PackagePath": "staticwebassets/images/tankpos.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/images/tnw.png",
+      "PackagePath": "staticwebassets/images/tnw.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/js/ljudbok.js",
+      "PackagePath": "staticwebassets/js/ljudbok.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Documents/University Projects/Asp.net/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TinBooks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TinBooks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TinBooks.props",
+      "PackagePath": "build\\TinBooks.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TinBooks.props",
+      "PackagePath": "buildMultiTargeting\\TinBooks.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TinBooks.props",
+      "PackagePath": "buildTransitive\\TinBooks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

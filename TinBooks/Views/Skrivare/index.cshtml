@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Min Bokhandel</title>
+    <link rel="stylesheet" href="./css/ForfattarenSida.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <div class="container">
+            <h1 class="logo">Min Bokhandel</h1>
+            <ul class="nav-menu">
+                <li><a href="#authors">Författare</a></li>
+                <li><a href="#footer">Kontakt</a></li>
+                <li><a href="#books">Böcker</a></li>
+                <li><a href="#about">Om Oss</a></li>
+                <li><a href="#services"></a></li>
+            </ul>
+            <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        </div>
+    </nav>
+</header>
+
+<main>
+    <section id="authors" class="authors-section">
+        <h2>Våra Författare</h2>
+        <div class="authors-grid">
+            <div class="author-card">
+                <img src="../images/jw.png" alt="J.K. Rowling" class="author-image">
+                <h3>J.K. Rowling</h3>
+                <p><strong>Erfarenhet:</strong> Författare till Harry Potter-serien</p>
+                <p><strong>Kända verk:</strong> Harry Potter och De Vises Sten, Harry Potter och Fenixorden</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/im.png" alt="Stephen King" class="author-image">
+                <h3>Stephen King</h3>
+                <p><strong>Erfarenhet:</strong> Mästare inom skräck och thriller</p>
+                <p><strong>Kända verk:</strong> The Shining, It, Carrie</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/hl.png" alt="Herman Hesse" class="author-image">
+                <h3>Herman Hesse</h3>
+                <p><strong>Erfarenhet:</strong> Författare och nobelpristagare</p>
+                <p><strong>Kända verk:</strong> Steppenwolf, Siddhartha</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/af.png" alt="Agatha Christie" class="author-image">
+                <h3>Agatha Christie</h3>
+                <p><strong>Erfarenhet:</strong> Känd som "drottningen av kriminalromaner"</p>
+                <p><strong>Kända verk:</strong> Murder on the Orient Express, And Then There Were None</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/jc.png" alt="Jules Verne" class="author-image">
+                <h3>Jules Verne</h3>
+                <p><strong>Erfarenhet:</strong> Pionjär inom science fiction</p>
+                <p><strong>Kända verk:</strong> Journey to the Center of the Earth, Twenty Thousand Leagues Under the Sea</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/hemingway.png" alt="Ernest Hemingway" class="author-image">
+                <h3>Ernest Hemingway</h3>
+                <p><strong>Erfarenhet:</strong> Amerikansk författare och nobelpristagare</p>
+                <p><strong>Kända verk:</strong> The Old Man and the Sea, A Farewell to Arms</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/orwell.png" alt="George Orwell" class="author-image">
+                <h3>George Orwell</h3>
+                <p><strong>Erfarenhet:</strong> Brittisk journalist och romanförfattare</p>
+                <p><strong>Kända verk:</strong> 1984, Animal Farm</p>
+                <li><a asp-controller="Bestalla" asp-action="index" class="menu-item">Mina Böcker</a></li>
+
+            </div>
+            <div class="author-card">
+                <img src="../images/tolkien.png" alt="J.R.R. Tolkien" class="author-image">
+                <h3>J.R.R. Tolkien</h3>
+                <p><strong>Erfarenhet:</strong> Känd för sina episk fantasyverk</p>
+                <p><strong>Kända verk:</strong> The Hobbit, The Lord of the Rings</p>
+            </div>
+            <div class="author-card">
+                <img src="../images/rowling.png" alt="J.K. Rowling" class="author-image">
+                <h3>J.K. Rowling</h3>
+                <p><strong>Erfarenhet:</strong> Skapare av Harry Potter-universumet</p>
+                <p><strong>Kända verk:</strong> Harry Potter-serien</p>
+            </div>
+            <!-- Lägg till övriga författare här -->
+        </div>
+    </section>
+</main>
+
+<footer id="footer">
+    <p>© 2024 Min Bokhandel. Alla rättigheter förbehållna.</p>
+</footer>
+
+<script>
+    function toggleMenu() {
+        const navMenu = document.querySelector('.nav-menu');
+        navMenu.classList.toggle('active');
+    }
+</script>
+
+</body>
+</html>

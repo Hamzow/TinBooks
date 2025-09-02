@@ -1,0 +1,183 @@
+body {
+    background-color: #e6f2ff; /* Ljus bakgrundsfärg för en elegant känsla */
+    background-image: url('../images/cover.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333; /* Mörkare textfärg för bättre läsbarhet */
+    line-height: 1.6;
+    font-family: 'Poppins', sans-serif; /* Modern font */
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgba(107, 196, 255, 0.9); /* Transparent bakgrund för elegans */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    padding: 15px 0;
+}
+
+.container {
+    width: 95%;
+    max-width: 800px; 
+    margin: 0 auto;
+}
+
+.logo img {
+    height: 90px; /* Justerat höjd för logotyp */
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-nav ul li a {
+    text-decoration: none;
+    color: #2b3d51;
+    padding: 10px 20px;
+    font-weight: 600; /* Tyngre vikt för bättre synlighet */
+    transition: color 0.3s ease;
+}
+
+.main-nav ul li a:hover {
+    color: #e07a5f; /* Mörkare färg vid hovring */
+}
+
+.search-cart {
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px; /* Minska avståndet mellan element */
+    align-items: center;
+}
+
+.search-bar input {
+    padding: 10px;
+    border: 1px solid #dfe3eb;
+    border-radius: 5px;
+}
+
+.search-bar button {
+    padding: 10px 15px;
+    background-color: #e07a5f; /* Knappens färg */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-bar button:hover {
+    background-color: #d05d40; /* Mörkare färg vid hovring */
+}
+
+.cart-login span {
+    cursor: pointer;
+    color: #e07a5f;
+}
+
+.new-products h2 {
+    text-align: center;
+    margin: 30px 0; /* Justerat marginaler */
+    color: #2b3d51;
+    font-size: 2rem; /* Minskat storlek för elegans */
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Justerat för mindre produktkort */
+    gap: 20px; /* Minskat avstånd för att skapa en mer kompakt layout */
+}
+
+.product-card {
+    background-color: #ffffff; /* Vit bakgrund för korten */
+    border-radius: 10px; /* Mjukare hörn */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Diskret skugga */
+    text-align: center;
+    padding: 15px; /* Minskat padding för en mer kompakt känsla */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-4px); /* Lätt lyft vid hovring */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* Mörkare skugga vid hovring */
+}
+
+.product-card img {
+    width: 70%; /* Minskat bildandel för korten */
+    border-radius: 8px; /* Mjuka hörn för bilder */
+}
+
+.product-card h3 {
+    color: #34495e;
+    font-size: 1.1rem; /* Minskat storlek för titlar */
+    margin: 10px 0; /* Justerat marginaler */
+}
+
+.product-card p {
+    font-size: 0.9rem; /* Lättare storlek för priser */
+    color: #e07a5f; /* Färgen för priser */
+}
+
+.product-card button {
+    padding: 8px 15px; /* Minskat padding för knappar */
+    background-color: #e07a5f; /* Knappens färg */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.product-card button:hover {
+    background-color: #d05d40; /* Mörkare färg vid hovring */
+}
+
+footer {
+    background-color: #2b3d51;
+    color: #f0f1f6;
+    padding: 40px 0; /* Minskat utrymme för en mer kompakt design */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.footer-content h3 {
+    font-size: 1.3rem; /* Justerat storlek */
+    margin-bottom: 15px; /* Justerat marginal */
+}
+
+.footer-content input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px; /* Minskat avstånd */
+}
+
+.footer-content button {
+    padding: 10px 20px;
+    background-color: #e07a5f; /* Knappens färg */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-content button:hover {
+    background-color: #d05d40; /* Mörkare färg vid hovring */
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 30px; /* Justerat marginal */
+    font-size: 0.9rem; /* Justerat storlek */
+    color: #dfe3eb;
+}

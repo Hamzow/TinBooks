@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/obj/Release/net8.0/scopedcss/projectbundle/TinBooks.bundle.scp.css",
+      "PackagePath": "staticwebassets/TinBooks.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/Sounds/Mästren-1.mp3",
+      "PackagePath": "staticwebassets/Sounds/Mästren-1.mp3"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/Sounds/Sagan.mp3",
+      "PackagePath": "staticwebassets/Sounds/Sagan.mp3"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/css/Bibliotek.css",
+      "PackagePath": "staticwebassets/css/Bibliotek.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/css/ForfattarenSida.css",
+      "PackagePath": "staticwebassets/css/ForfattarenSida.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/css/Home.css",
+      "PackagePath": "staticwebassets/css/Home.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/css/Login.css",
+      "PackagePath": "staticwebassets/css/Login.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/css/ljudbok.css",
+      "PackagePath": "staticwebassets/css/ljudbok.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/TechCrunch.png",
+      "PackagePath": "staticwebassets/images/TechCrunch.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/barnn.png",
+      "PackagePath": "staticwebassets/images/barnn.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/biwebb.png",
+      "PackagePath": "staticwebassets/images/biwebb.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/bizinsider.png",
+      "PackagePath": "staticwebassets/images/bizinsider.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/boki.png",
+      "PackagePath": "staticwebassets/images/boki.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/cover.jpg",
+      "PackagePath": "staticwebassets/images/cover.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/cropped_image.png",
+      "PackagePath": "staticwebassets/images/cropped_image.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/ditord.jpg",
+      "PackagePath": "staticwebassets/images/ditord.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/dog-img.jpg",
+      "PackagePath": "staticwebassets/images/dog-img.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/focus.jpeg",
+      "PackagePath": "staticwebassets/images/focus.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/im.png",
+      "PackagePath": "staticwebassets/images/im.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/jw.jpeg",
+      "PackagePath": "staticwebassets/images/jw.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/jw.png",
+      "PackagePath": "staticwebassets/images/jw.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/läsa.jpeg",
+      "PackagePath": "staticwebassets/images/läsa.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/livet efter.jpeg",
+      "PackagePath": "staticwebassets/images/livet efter.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/maktaba.jpeg",
+      "PackagePath": "staticwebassets/images/maktaba.jpeg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/mashable.png",
+      "PackagePath": "staticwebassets/images/mashable.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/mt-1321_home_slider-1.jpg",
+      "PackagePath": "staticwebassets/images/mt-1321_home_slider-1.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/nästpic.png",
+      "PackagePath": "staticwebassets/images/nästpic.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/nypic.png",
+      "PackagePath": "staticwebassets/images/nypic.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/or.png",
+      "PackagePath": "staticwebassets/images/or.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/programmer.jpg",
+      "PackagePath": "staticwebassets/images/programmer.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/read.png",
+      "PackagePath": "staticwebassets/images/read.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/tankpos.jpg",
+      "PackagePath": "staticwebassets/images/tankpos.jpg"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/images/tnw.png",
+      "PackagePath": "staticwebassets/images/tnw.png"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/js/ljudbok.js",
+      "PackagePath": "staticwebassets/js/ljudbok.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/hamzehussein/Desktop/Demofol/TinBooks/TinBooks/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.TinBooks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.TinBooks.props",
+      "PackagePath": "build\\TinBooks.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.TinBooks.props",
+      "PackagePath": "buildMultiTargeting\\TinBooks.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.TinBooks.props",
+      "PackagePath": "buildTransitive\\TinBooks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

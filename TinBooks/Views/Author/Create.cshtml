@@ -1,0 +1,23 @@
+@model TinBooks.Models.Author
+
+<h2>Create Author</h2>
+
+<form asp-action="Create">
+    <div>
+        <label>Full Name</label>
+        <input asp-for="FullName" />
+    </div>
+    <button type="submit">Create</button>
+    <form asp-action="Create">
+        <div>
+            <label>Full Name</label>
+            <input asp-for="FullName" />
+        </div>
+        <button type="submit">Create</button>
+
+    </form>
+    <div>
+        <a asp-controller="Book" asp-action="Create" class="menu-item">📚Lägg Författare med Sin Bok</a>
+  
+</div>
+</form>
